@@ -1,6 +1,6 @@
 {
-  "version": "1.9.11",
-  "releaseDate": "2026-09-10",
-  "downloadUrl": "https://github.com/dxmon7s/MargPOS-Releases/releases/download/v1.9.11/MargPOS.Desktop.Setup.1.9.11.exe",
-  "releaseNotes": "MargPOS Desktop v1.9.11 — Wholesale & GST capabilities in Product / Item Master (HSN, Brand Name, MFR Code, Case Size) and Inward Purchase (Inter-State IGST vs Intra-State CGST+SGST, Supplier State extraction, Free Qty & Trade Discounts)."
+  "version": "1.9.21",
+  "releaseDate": "2026-09-16",
+  "downloadUrl": "https://github.com/dxmon7s/MargPOS-Releases/releases/download/v1.9.21/DukanBILL.Desktop.Setup.1.9.21.exe",
+  "releaseNotes": "DukanBILL Desktop v1.9.21 — Full app rebrand from MargPOS to DukanBILL across all screens, navbar, invoices, reports, login, settings, and installer. Includes all Phase 3-5 features: Purchase Entry decimals, Stock Write-off/Adjustment, Supplier Ledger & Payments, Aging Report, Dashboard Quick-Access, Batch/Expiry Tracking."
 }
