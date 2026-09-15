@@ -1,6 +1,6 @@
 {
-  "version": "1.9.22",
+  "version": "1.9.23",
   "releaseDate": "2026-09-16",
-  "downloadUrl": "https://github.com/dxmon7s/MargPOS-Releases/releases/download/v1.9.22/DukanBILL.Desktop.Setup.1.9.22.exe",
-  "releaseNotes": "DukanBILL Desktop v1.9.22 — Critical Data Recovery & Self-Healing Update: Automatically recovers and migrates all products, sales history, customers, suppliers, purchases, and active licenses from prior MargPOS Desktop installations into DukanBILL. Fixes the empty/missing data issue for users who updated to v1.9.21. Decouples and permanently locks data directory to ensure future rebrand safety."
+  "downloadUrl": "https://github.com/dxmon7s/MargPOS-Releases/releases/download/v1.9.23/DukanBILL.Desktop.Setup.1.9.23.exe",
+  "releaseNotes": "DukanBILL Desktop v1.9.23 — Branding & Icon Update: New official high-resolution DukanBILL application icon across all resolutions (16x16 up to 256x256), Windows taskbar, window title bar, desktop shortcut, and in-app navigation headers. Full automatic data self-healing and data-recovery mechanisms from v1.9.22 preserved."
 }
