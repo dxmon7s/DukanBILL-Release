@@ -1,6 +1,6 @@
 {
-  "version": "1.9.25",
+  "version": "1.9.26",
   "releaseDate": "2026-09-16",
-  "downloadUrl": "https://github.com/dxmon7s/MargPOS-Releases/releases/download/v1.9.25/DukanBILL.Desktop.Setup.1.9.25.exe",
-  "releaseNotes": "DukanBILL Desktop v1.9.25 — Refined 2-Tier Navigation Bar: Introduces an uncluttered, responsive dual-tier header system matching modern ERP standards. Tier 1 cleanly separates Brand identity and Operator profile controls (Settings, User Badge, More Actions menu); Tier 2 provides a dedicated navigation ribbon with keyboard shortcuts (F1-F8) and zero window clipping on all display sizes."
+  "downloadUrl": "https://github.com/dxmon7s/MargPOS-Releases/releases/download/v1.9.26/DukanBILL.Desktop.Setup.1.9.26.exe",
+  "releaseNotes": "DukanBILL Desktop v1.9.26 — Navigation & Dropdown Polish: Restores full visibility and clickability for Inventory and Finance dropdown menus across all screen widths. Features enhanced in-app updater with automated download streaming and seamless restart."
 }
