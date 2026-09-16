@@ -1,6 +1,6 @@
 {
-  "version": "1.9.24",
+  "version": "1.9.25",
   "releaseDate": "2026-09-16",
-  "downloadUrl": "https://github.com/dxmon7s/MargPOS-Releases/releases/download/v1.9.24/DukanBILL.Desktop.Setup.1.9.24.exe",
-  "releaseNotes": "DukanBILL Desktop v1.9.24 — Windows Shell Refresh Polish: Adds automatic Windows Explorer icon cache invalidation hook on install/update so the desktop shortcut, taskbar icon, and start menu reflect the new DukanBILL icon immediately without requiring manual cache clearing or explorer restarts. All v1.9.22/v1.9.23 data-recovery and features intact."
+  "downloadUrl": "https://github.com/dxmon7s/MargPOS-Releases/releases/download/v1.9.25/DukanBILL.Desktop.Setup.1.9.25.exe",
+  "releaseNotes": "DukanBILL Desktop v1.9.25 — Refined 2-Tier Navigation Bar: Introduces an uncluttered, responsive dual-tier header system matching modern ERP standards. Tier 1 cleanly separates Brand identity and Operator profile controls (Settings, User Badge, More Actions menu); Tier 2 provides a dedicated navigation ribbon with keyboard shortcuts (F1-F8) and zero window clipping on all display sizes."
 }
