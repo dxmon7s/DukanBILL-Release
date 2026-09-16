@@ -1,6 +1,6 @@
 {
-  "version": "1.9.27",
+  "version": "1.9.28",
   "releaseDate": "2026-09-16",
-  "downloadUrl": "https://github.com/dxmon7s/MargPOS-Releases/releases/download/v1.9.27/DukanBILL.Desktop.Setup.1.9.27.exe",
-  "releaseNotes": "DukanBILL Desktop v1.9.27 — Automatic WhatsApp Bill Delivery: Directly delivers official GST Tax Invoice & Bill of Supply PDFs to customer WhatsApp numbers upon POS billing completion via Baileys Web pairing. Includes Settings QR linking, auto-send toggle, failure retry logs, and 1-click manual PDF dispatch."
+  "downloadUrl": "https://github.com/dxmon7s/MargPOS-Releases/releases/download/v1.9.28/DukanBILL.Desktop.Setup.1.9.28.exe",
+  "releaseNotes": "DukanBILL Desktop v1.9.28 — Direct WhatsApp PDF Delivery Fix: Resolves issue where clicking WhatsApp Bill in the Invoice modal opened the web browser instead of sending directly via linked WhatsApp. Includes instant auto-saving of WhatsApp settings toggle and background auto-dispatch on checkout."
 }
