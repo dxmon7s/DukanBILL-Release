@@ -1,6 +1,6 @@
 {
-  "version": "1.9.35",
+  "version": "1.9.36",
   "releaseDate": "2026-09-19",
-  "downloadUrl": "https://github.com/dxmon7s/MargPOS-Releases/releases/download/v1.9.35/DukanBILL-Desktop-Setup-1.9.35.exe",
-  "releaseNotes": "DukanBILL Desktop v1.9.35 — Purchase Orders, GRN with Batch Tracking, and Purchase Return fixes."
+  "downloadUrl": "https://github.com/dxmon7s/MargPOS-Releases/releases/download/v1.9.36/DukanBILL-Desktop-Setup-1.9.36.exe",
+  "releaseNotes": "Added: Daily auto-backup on app start (background, Google Drive folder support)"
 }
