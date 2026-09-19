@@ -1,6 +1,6 @@
 {
-  "version": "1.9.38",
+  "version": "1.9.39",
   "releaseDate": "2026-09-19",
-  "downloadUrl": "https://github.com/dxmon7s/MargPOS-Releases/releases/download/v1.9.38/DukanBILL-Desktop-Setup-1.9.38.exe",
-  "releaseNotes": "Added: Live Update Available badge in Dashboard hero banner with 1-click update, Searchable Category Combobox, and Daily Auto-Backup."
+  "downloadUrl": "https://github.com/dxmon7s/MargPOS-Releases/releases/download/v1.9.39/DukanBILL-Desktop-Setup-1.9.39.exe",
+  "releaseNotes": "Fixed: Info tooltips clipping with React Portal, Category combobox showing all options on click without pre-filter, and instant category query."
 }
