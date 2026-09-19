@@ -1,6 +1,6 @@
 {
-  "version": "1.9.29",
-  "releaseDate": "2026-09-16",
-  "downloadUrl": "https://github.com/dxmon7s/MargPOS-Releases/releases/download/v1.9.29/DukanBILL.Desktop.Setup.1.9.29.exe",
-  "releaseNotes": "DukanBILL Desktop v1.9.29 — Udhaar Khata Payment Capping: Capped customer payment amounts at their current outstanding udhaar due, blocking excess payments and eliminating negative/advance balance confusion. Clamped Khata balance strictly between due amount down to ₹0.00."
+  "version": "1.9.35",
+  "releaseDate": "2026-09-19",
+  "downloadUrl": "https://github.com/dxmon7s/MargPOS-Releases/releases/download/v1.9.35/DukanBILL-Desktop-Setup-1.9.35.exe",
+  "releaseNotes": "DukanBILL Desktop v1.9.35 — Purchase Orders, GRN with Batch Tracking, and Purchase Return fixes."
 }
