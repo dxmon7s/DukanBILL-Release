@@ -1,6 +1,6 @@
 {
-  "version": "1.9.36",
+  "version": "1.9.37",
   "releaseDate": "2026-09-19",
-  "downloadUrl": "https://github.com/dxmon7s/MargPOS-Releases/releases/download/v1.9.36/DukanBILL-Desktop-Setup-1.9.36.exe",
-  "releaseNotes": "Added: Daily auto-backup on app start (background, Google Drive folder support)"
+  "downloadUrl": "https://github.com/dxmon7s/MargPOS-Releases/releases/download/v1.9.37/DukanBILL-Desktop-Setup-1.9.37.exe",
+  "releaseNotes": "Added: Searchable Category Combobox in Product Add/Edit with case-insensitive deduplication and creatable new categories."
 }
