@@ -1,6 +1,6 @@
 {
-  "version": "1.9.44",
+  "version": "1.9.45",
   "releaseDate": "2026-09-19",
-  "downloadUrl": "https://github.com/dxmon7s/MargPOS-Releases/releases/download/v1.9.44/DukanBILL-Desktop-Setup-1.9.44.exe",
-  "releaseNotes": "DukanBILL Desktop v1.9.44 — Fix GST Registration Type persistence across navigation (Settings → Dashboard → Settings) with immediate SQLite auto-save and direct database initialization on mount."
+  "downloadUrl": "https://github.com/dxmon7s/MargPOS-Releases/releases/download/v1.9.45/DukanBILL-Desktop-Setup-1.9.45.exe",
+  "releaseNotes": "DukanBILL Desktop v1.9.45 — Critical Security Fix: Fail-closed isOwner check & GST Registration Type lock for Staff/Cashier, complete Staff Billing-Only lockdown, dynamic document-derived Invoice Success Modal headers & historical immutability."
 }
