@@ -1,6 +1,6 @@
 {
-  "version": "1.9.37",
+  "version": "1.9.38",
   "releaseDate": "2026-09-19",
-  "downloadUrl": "https://github.com/dxmon7s/MargPOS-Releases/releases/download/v1.9.37/DukanBILL-Desktop-Setup-1.9.37.exe",
-  "releaseNotes": "Added: Searchable Category Combobox in Product Add/Edit with case-insensitive deduplication and creatable new categories."
+  "downloadUrl": "https://github.com/dxmon7s/MargPOS-Releases/releases/download/v1.9.38/DukanBILL-Desktop-Setup-1.9.38.exe",
+  "releaseNotes": "Added: Live Update Available badge in Dashboard hero banner with 1-click update, Searchable Category Combobox, and Daily Auto-Backup."
 }
