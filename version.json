@@ -1,6 +1,6 @@
 {
-  "version": "1.9.42",
+  "version": "1.9.43",
   "releaseDate": "2026-09-19",
-  "downloadUrl": "https://github.com/dxmon7s/MargPOS-Releases/releases/download/v1.9.42/DukanBILL-Desktop-Setup-1.9.42.exe",
-  "releaseNotes": "DukanBILL Desktop v1.9.42 — Fix GST Registration Type scheme selection in Settings (instant switching between Regular, Composition, and Unregistered modes) and complete GST scheme reporting."
+  "downloadUrl": "https://github.com/dxmon7s/MargPOS-Releases/releases/download/v1.9.43/DukanBILL-Desktop-Setup-1.9.43.exe",
+  "releaseNotes": "DukanBILL Desktop v1.9.43 — Added 3 interactive 1-click scheme cards (Regular, Composition, Unregistered) with protected state persistence and instant switching."
 }
