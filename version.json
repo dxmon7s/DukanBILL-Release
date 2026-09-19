@@ -1,6 +1,6 @@
 {
-  "version": "1.9.41",
+  "version": "1.9.42",
   "releaseDate": "2026-09-19",
-  "downloadUrl": "https://github.com/dxmon7s/MargPOS-Releases/releases/download/v1.9.41/DukanBILL-Desktop-Setup-1.9.41.exe",
-  "releaseNotes": "DukanBILL Desktop v1.9.41 — GST Composition Scheme refinement: Pure turnover-based reporting (no hardcoded fixed tax rates), accurate customer-facing Bill of Supply generation, immutable documentType per invoice, and full multi-scheme compliance (Regular / Composition / Unregistered)."
+  "downloadUrl": "https://github.com/dxmon7s/MargPOS-Releases/releases/download/v1.9.42/DukanBILL-Desktop-Setup-1.9.42.exe",
+  "releaseNotes": "DukanBILL Desktop v1.9.42 — Fix GST Registration Type scheme selection in Settings (instant switching between Regular, Composition, and Unregistered modes) and complete GST scheme reporting."
 }
