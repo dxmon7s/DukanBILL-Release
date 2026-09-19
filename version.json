@@ -1,6 +1,6 @@
 {
-  "version": "1.9.40",
+  "version": "1.9.41",
   "releaseDate": "2026-09-19",
-  "downloadUrl": "https://github.com/dxmon7s/MargPOS-Releases/releases/download/v1.9.40/DukanBILL-Desktop-Setup-1.9.40.exe",
-  "releaseNotes": "DukanBILL Desktop v1.9.40 — GST Central Tax Engine: Added full support for UNREGISTERED, REGULAR, and COMPOSITION registration types with automatic documentType persistence (Tax Invoice / Bill of Supply / Non-GST Bill), smart settings UI, WhatsApp PDF billing, and dedicated Sales Turnover reports."
+  "downloadUrl": "https://github.com/dxmon7s/MargPOS-Releases/releases/download/v1.9.41/DukanBILL-Desktop-Setup-1.9.41.exe",
+  "releaseNotes": "DukanBILL Desktop v1.9.41 — GST Composition Scheme refinement: Pure turnover-based reporting (no hardcoded fixed tax rates), accurate customer-facing Bill of Supply generation, immutable documentType per invoice, and full multi-scheme compliance (Regular / Composition / Unregistered)."
 }
