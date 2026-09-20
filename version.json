@@ -1,6 +1,6 @@
 {
-  "version": "1.9.45",
-  "releaseDate": "2026-09-19",
-  "downloadUrl": "https://github.com/dxmon7s/MargPOS-Releases/releases/download/v1.9.45/DukanBILL-Desktop-Setup-1.9.45.exe",
-  "releaseNotes": "DukanBILL Desktop v1.9.45 — Critical Security Fix: Fail-closed isOwner check & GST Registration Type lock for Staff/Cashier, complete Staff Billing-Only lockdown, dynamic document-derived Invoice Success Modal headers & historical immutability."
+  "version": "1.9.46",
+  "releaseDate": "2026-09-20",
+  "downloadUrl": "https://github.com/dxmon7s/MargPOS-Releases/releases/download/v1.9.46/DukanBILL-Desktop-Setup-1.9.46.exe",
+  "releaseNotes": "DukanBILL Desktop v1.9.46 — Official GST Statutory Formats (GSTR-1 & GSTR-3B offline JSON exports, pre-export checklist, SHA-256 fingerprint audit trail) and Phase P2-F Production Hardening & Security Audit."
 }
