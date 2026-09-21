@@ -1,6 +1,6 @@
 {
-  "version": "1.9.46",
-  "releaseDate": "2026-09-20",
-  "downloadUrl": "https://github.com/dxmon7s/MargPOS-Releases/releases/download/v1.9.46/DukanBILL-Desktop-Setup-1.9.46.exe",
-  "releaseNotes": "DukanBILL Desktop v1.9.46 — Official GST Statutory Formats (GSTR-1 & GSTR-3B offline JSON exports, pre-export checklist, SHA-256 fingerprint audit trail) and Phase P2-F Production Hardening & Security Audit."
+  "version": "1.9.48",
+  "releaseDate": "2026-09-21",
+  "downloadUrl": "https://github.com/dxmon7s/MargPOS-New/releases/download/v1.9.48/DukanBILL-Desktop-Setup-1.9.48.exe",
+  "releaseNotes": "DukanBILL Desktop v1.9.48 — Complete GST Cess runtime fixes across Purchases, GSTR-3B Table 4/4A2, and Statutory Rules."
 }
