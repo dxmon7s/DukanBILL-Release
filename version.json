@@ -1,6 +1,6 @@
 {
-  "version": "1.9.51",
+  "version": "1.9.52",
   "releaseDate": "2026-09-21",
-  "downloadUrl": "https://github.com/dxmon7s/MargPOS-Releases/releases/download/v1.9.51/DukanBILL-Desktop-Setup-1.9.51.exe",
-  "releaseNotes": "DukanBILL Desktop v1.9.51 — Inventory Deletion and Duplicate Category Error UX Polish."
+  "downloadUrl": "https://github.com/dxmon7s/MargPOS-Releases/releases/download/v1.9.52/DukanBILL-Desktop-Setup-1.9.52.exe",
+  "releaseNotes": "DukanBILL Desktop v1.9.52 — ITC Dashboard Infinite Spinner Fix & Product Active/Inactive Toggle Control with POS Safety Exclusion."
 }
