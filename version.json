@@ -1,6 +1,6 @@
 {
-  "version": "1.9.50",
+  "version": "1.9.51",
   "releaseDate": "2026-09-21",
-  "downloadUrl": "https://github.com/dxmon7s/MargPOS-Releases/releases/download/v1.9.50/DukanBILL-Desktop-Setup-1.9.50.exe",
-  "releaseNotes": "DukanBILL Desktop v1.9.50 — Inventory Hardening, Category Master, and Category-Based GST Auto-Slabs."
+  "downloadUrl": "https://github.com/dxmon7s/MargPOS-Releases/releases/download/v1.9.51/DukanBILL-Desktop-Setup-1.9.51.exe",
+  "releaseNotes": "DukanBILL Desktop v1.9.51 — Inventory Deletion and Duplicate Category Error UX Polish."
 }
