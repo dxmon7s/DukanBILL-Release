@@ -1,6 +1,6 @@
 {
-  "version": "1.9.49",
+  "version": "1.9.50",
   "releaseDate": "2026-09-21",
-  "downloadUrl": "https://github.com/dxmon7s/MargPOS-Releases/releases/download/v1.9.49/DukanBILL-Desktop-Setup-1.9.49.exe",
-  "releaseNotes": "DukanBILL Desktop v1.9.49 — Targeted bug-fix release: ITC Review Queue, Partial Cess ITC, Rule 37 Cess, and GSTR-3B Cess Export."
+  "downloadUrl": "https://github.com/dxmon7s/MargPOS-Releases/releases/download/v1.9.50/DukanBILL-Desktop-Setup-1.9.50.exe",
+  "releaseNotes": "DukanBILL Desktop v1.9.50 — Inventory Hardening, Category Master, and Category-Based GST Auto-Slabs."
 }
