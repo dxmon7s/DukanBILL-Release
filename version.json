@@ -2,6 +2,6 @@
   "version": "1.9.53",
   "releaseDate": "2026-09-22",
   "sha256": "EBF50C063685E15DD9F1AA1A0E700736FED22F072C30ABF7CF4D195644AAB35B",
-  "downloadUrl": "https://github.com/dxmon7s/DukanBILL-Release/releases/download/v1.9.53/DukanBILL%20Desktop%20Setup%201.9.53.exe",
+  "downloadUrl": "https://github.com/dxmon7s/DukanBILL-Release/releases/download/v1.9.53/DukanBILL.Desktop.Setup.1.9.53.exe",
   "releaseNotes": "DukanBILL Desktop v1.9.53 — Official Production Release with P0-P5 improvements: Security Hardening, Inventory Foundation, Outward GST Cess, Thermal & A4 Document Engine, Retail Variants/UOM/Serials, and POS Checkout Polish."
 }
