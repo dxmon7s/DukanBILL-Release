@@ -2,6 +2,6 @@
   "version": "1.9.54",
   "releaseDate": "2026-09-22",
   "sha256": "74A9AABDB547B1F14818C8BBC5087F5A46227EB255C35BDC5582A750207C4AF7",
-  "downloadUrl": "https://github.com/dxmon7s/DukanBILL-Release/releases/download/v1.9.54/DukanBILL%20Desktop%20Setup%201.9.54.exe",
+  "downloadUrl": "https://github.com/dxmon7s/DukanBILL-Release/releases/download/v1.9.54/DukanBILL.Desktop.Setup.1.9.54.exe",
   "releaseNotes": "DukanBILL Desktop v1.9.54 — Serial Number / IMEI Tracking fully implemented across GRN, Stock Adjustment, POS and Sales Return; Escape key modal dismissal fixes; existing GST/Cess, Variant, UOM, invoice, sales-return and Staff Lockdown functionality preserved."
 }
