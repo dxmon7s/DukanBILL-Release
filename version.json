@@ -2,8 +2,8 @@
   "version": "1.9.59",
   "name": "DukanBILL Desktop",
   "releaseDate": "2026-09-28",
-  "downloadUrl": "https://dukanbill.com/downloads/DukanBILL.Desktop.Setup.1.9.59.exe",
+  "downloadUrl": "https://raw.githubusercontent.com/dxmon7s/DukanBILL-Release/main/DukanBILL.Desktop.Setup.1.9.59.exe",
   "sha256": "3035d1579e606903fce0477bd636d6207ea0bd771e993d897590e880ad0835e3",
-  "signature": "Br/S/cjbcdQsBCpm0lvoAX5JYzDgKdaJH+J7p6KPQ8v8UcTyWJYaQRkYOb675jD1++5sZ9Z8KHaNt8trhywTCg==",
+  "signature": "vYfILi2qYiDEI2vK2OTpuF4NcEH+FEOXTvcDmZ33FIjsjetvLscsWPYjDqoWvs0OkPiTPKsd2cG0VmADVVarDQ==",
   "releaseNotes": "DukanBILL Desktop v1.9.59 — Production Release: High-Resilience Hybrid Auto-Updater (Hostinger CDN Edge + GitHub Fallback Mirror), Installer Mirror Fallback, and Enterprise RBAC Security Hardening."
 }
