@@ -1,9 +1,9 @@
 {
-  "version": "1.9.56",
+  "version": "1.9.57",
   "name": "DukanBILL Desktop",
   "releaseDate": "2026-09-28",
-  "downloadUrl": "https://raw.githubusercontent.com/dxmon7s/DukanBILL-Release/main/DukanBILL.Desktop.Setup.1.9.56.exe",
-  "sha256": "8a513f8ecc03fd12f1b2517605b1c52308d7b1f4641b881adc689ec6a2dbd80c",
-  "signature": "dOM7bZcVXvmD5abb2by1yEpkwUEdtU3Tg2hAsCkj2q3fVjkHHj5uC5GQPTq1D85YXhxU+F4/cGRekVINJXu+BA==",
-  "releaseNotes": "DukanBILL Desktop v1.9.56 — Official Production Release with Final ERP Acceptance, Multi-Tier Inventory Management, Central GST Engine & Offline Cryptographic Licensing."
+  "downloadUrl": "https://raw.githubusercontent.com/dxmon7s/DukanBILL-Release/main/DukanBILL.Desktop.Setup.1.9.57.exe",
+  "sha256": "d762dd2f58f9a8cbf3e469b00c19b1cf660418784a77903fb90dcbb71d70b290",
+  "signature": "Am5PVOaq9FHv+9EIvoUY3lvopxZrTOyoISVwNjHt/4FSv3IoW8420L6dcb3rv+lm9eNaOnDlyQNcvaQqLqJhCQ==",
+  "releaseNotes": "DukanBILL Desktop v1.9.57 — Startup reliability recovery, compact DKB2 license format, expired-license Owner PIN activation, lock-screen update checking, standalone CLI updater, and full ERP hardening."
 }
