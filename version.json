@@ -1,9 +1,9 @@
 {
-  "version": "1.9.57",
+  "version": "1.9.58",
   "name": "DukanBILL Desktop",
   "releaseDate": "2026-09-28",
-  "downloadUrl": "https://raw.githubusercontent.com/dxmon7s/DukanBILL-Release/main/DukanBILL.Desktop.Setup.1.9.57.exe",
-  "sha256": "d762dd2f58f9a8cbf3e469b00c19b1cf660418784a77903fb90dcbb71d70b290",
-  "signature": "Am5PVOaq9FHv+9EIvoUY3lvopxZrTOyoISVwNjHt/4FSv3IoW8420L6dcb3rv+lm9eNaOnDlyQNcvaQqLqJhCQ==",
-  "releaseNotes": "DukanBILL Desktop v1.9.57 — Startup reliability recovery, compact DKB2 license format, expired-license Owner PIN activation, lock-screen update checking, standalone CLI updater, and full ERP hardening."
+  "downloadUrl": "https://raw.githubusercontent.com/dxmon7s/DukanBILL-Release/main/DukanBILL.Desktop.Setup.1.9.58.exe",
+  "sha256": "8ab7c448f4d33137160d5de7b6b541e74891a3ba0f286c406ff99564820636f3",
+  "signature": "vhrLQSuLMkMe9EDE7GFDrsvxNlWdQuiz/iAoeqNFoHBXtgPe156JWUApWweFM9ZbHsZl+1Jb3F1zDco4ahhwAw==",
+  "releaseNotes": "DukanBILL Desktop v1.9.58 — Critical Sales Return & Credit Note fix (Udhaar, Cash, and Partial returns), customer ledger reconciliation, and full ERP hardening."
 }

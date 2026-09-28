@@ -2,18 +2,23 @@
 
 Official public distribution repository for **DukanBILL Desktop** (Retail POS & ERP System).
 
-## Latest Production Release: v1.9.57
+## Latest Production Release: v1.9.58
 
-- **Release Version:** `v1.9.57`
+- **Release Version:** `v1.9.58`
 - **Release Date:** September 28, 2026
-- **Download:** [DukanBILL.Desktop.Setup.1.9.57.exe](https://raw.githubusercontent.com/dxmon7s/DukanBILL-Release/main/DukanBILL.Desktop.Setup.1.9.57.exe)
-- **Installer SHA-256:** `d762dd2f58f9a8cbf3e469b00c19b1cf660418784a77903fb90dcbb71d70b290`
+- **Download:** [DukanBILL.Desktop.Setup.1.9.58.exe](https://raw.githubusercontent.com/dxmon7s/DukanBILL-Release/main/DukanBILL.Desktop.Setup.1.9.58.exe)
+- **Installer SHA-256:** `8ab7c448f4d33137160d5de7b6b541e74891a3ba0f286c406ff99564820636f3`
 - **Manifest:** [version.json](https://raw.githubusercontent.com/dxmon7s/DukanBILL-Release/main/version.json)
 
-### Key Features in v1.9.57
-- **Startup Reliability Recovery:** Robust Electron process bootstrap and fail-safe window creation.
-- **Compact DKB2 License Key System:** Crockford Base32 grouping with Ed25519 signature and legacy DKB1 compatibility.
-- **Expired-License Owner Activation:** Store Owner PIN authorization challenge from lock screen.
-- **Pre-Login / Lock-Screen Updater:** Instant update checks from login, activation, and lock screens.
-- **Standalone CLI Updater:** `Check-Updates.bat` utility to check updates without launching GUI.
-- **Enterprise ERP Hardening:** Fixed Product Master, keyboard input stability, and GST audit trail.
+### Key Features in v1.9.58
+- **P0 Sales Return & Credit Note Remediation:** Fixed customer ledger constraint check on Udhaar/Credit returns, cash refund flow, and return cancellation.
+- **Stock & Accounting Atomicity:** Full inventory, batch, serial, and journal reversal across all return types.
+- **Over-Return & Duplicate Protection:** Strict returnable quantity limits and idempotent transaction handling.
+- **Inventory Central & Catalog Count Alignment:** Real-time metrics from live database with accurate active catalog counts.
+- **Enterprise ERP Hardening:** Preserved all v1.9.56/v1.9.57 features, compact DKB2 licensing, and secure pre-login updates.
+
+---
+
+### Previous Releases
+- **v1.9.57:** Startup recovery, compact DKB2 license format, expired-license Owner PIN activation.
+- **v1.9.56:** Statutory GST audit trail, Product Master fixes, GRN keyboard input reliability.
