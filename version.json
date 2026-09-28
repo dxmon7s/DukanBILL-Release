@@ -1,9 +1,9 @@
 {
-  "version": "1.9.55",
+  "version": "1.9.56",
   "name": "DukanBILL Desktop",
-  "releaseDate": "2026-09-23",
-  "downloadUrl": "https://github.com/dxmon7s/DukanBILL-Release/releases/download/v1.9.55/DukanBILL.Desktop.Setup.1.9.55.exe",
-  "sha256": "3fddde9d0b52699add9d85a2e3e46d9403e332443bffba195c3b74d774fb3a30",
-  "signature": "c5tvF7GfA9VNJNXn0Tz+AcK+61JbXMTjY5z0YhD1ATsjv6u1Mw3o0dslsPC7K66nnq6cyeJBzdzWJ80eB+0qCA==",
-  "releaseNotes": "DukanBILL Desktop v1.9.55 — Complete ERP Acceptance, POS Retail Billing, Central GST Engine, Offline Ed25519 License Verification, Multi-User PIN Security & Fail-Closed Auto-Updater."
+  "releaseDate": "2026-09-28",
+  "downloadUrl": "https://github.com/dxmon7s/DukanBILL-Release/releases/download/v1.9.56/DukanBILL.Desktop.Setup.1.9.56.exe",
+  "sha256": "8a513f8ecc03fd12f1b2517605b1c52308d7b1f4641b881adc689ec6a2dbd80c",
+  "signature": "/bf+EBpRvj3MeoQBtghUIn9kOx0EeYSxJ60RpIKjZQtRR96+DotnVbx5gbIMGQyhxQ5KvUx3gu+pxGIqkaJIBA==",
+  "releaseNotes": "DukanBILL Desktop v1.9.56 — Official Production Release with Final ERP Acceptance, Multi-Tier Inventory Management, Central GST Engine & Offline Cryptographic Licensing."
 }
