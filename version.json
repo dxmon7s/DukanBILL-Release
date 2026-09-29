@@ -3,7 +3,7 @@
   "name": "DukanBILL Desktop",
   "releaseDate": "2026-09-28",
   "downloadUrl": "https://raw.githubusercontent.com/dxmon7s/DukanBILL-Release/main/DukanBILL.Desktop.Setup.1.9.59.exe",
-  "sha256": "3035d1579e606903fce0477bd636d6207ea0bd771e993d897590e880ad0835e3",
-  "signature": "vYfILi2qYiDEI2vK2OTpuF4NcEH+FEOXTvcDmZ33FIjsjetvLscsWPYjDqoWvs0OkPiTPKsd2cG0VmADVVarDQ==",
-  "releaseNotes": "DukanBILL Desktop v1.9.59 — Production Release: High-Resilience Hybrid Auto-Updater (Hostinger CDN Edge + GitHub Fallback Mirror), Installer Mirror Fallback, and Enterprise RBAC Security Hardening."
+  "sha256": "3386039215bb9a3491459d19d5ffa8858d094888329b170bf37059f43e1a60a3",
+  "signature": "z+6ShoF+zcBhDAlDNZnqG+l+KLfvz2rz7LdsAq9Rh7M2f4jh9zSKZmLRhM9Ju24/CTs93DUuxUasy4IMS2SNCQ==",
+  "releaseNotes": "DukanBILL Desktop v1.9.59 — Production Release: High-Resilience Hybrid Auto-Updater (Hostinger CDN Edge + GitHub Fallback Mirror), New Brand Identity & Logo, and Enterprise RBAC Security Hardening."
 }
