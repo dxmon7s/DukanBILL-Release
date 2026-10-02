@@ -1,9 +1,9 @@
 {
-  "version": "1.9.59",
+  "version": "2.0.5",
   "name": "DukanBILL Desktop",
-  "releaseDate": "2026-09-28",
-  "downloadUrl": "https://raw.githubusercontent.com/dxmon7s/DukanBILL-Release/main/DukanBILL.Desktop.Setup.1.9.59.exe",
-  "sha256": "3386039215bb9a3491459d19d5ffa8858d094888329b170bf37059f43e1a60a3",
-  "signature": "z+6ShoF+zcBhDAlDNZnqG+l+KLfvz2rz7LdsAq9Rh7M2f4jh9zSKZmLRhM9Ju24/CTs93DUuxUasy4IMS2SNCQ==",
-  "releaseNotes": "DukanBILL Desktop v1.9.59 — Production Release: High-Resilience Hybrid Auto-Updater (Hostinger CDN Edge + GitHub Fallback Mirror), New Brand Identity & Logo, and Enterprise RBAC Security Hardening."
+  "releaseDate": "2026-10-02",
+  "downloadUrl": "https://raw.githubusercontent.com/dxmon7s/DukanBILL-Release/main/DukanBILL.Desktop.Setup.2.0.5.exe",
+  "sha256": "8411dc1539f76a3749baf6f1edaf9734b4c5095add4d1ecf16db698148c1b800",
+  "signature": "nkyHNPapoz3WvO2bIdK5/zqWnDkwnK0tYw8fLI3Zoe+JX1UlHXl0vBmqHAnEQzA3K7xvrndPcX45PmSaxyYWCA==",
+  "releaseNotes": "DukanBILL Desktop v2.0.5 — Critical Hotfix: Instant WhatsApp QR Pairing via Chrome protocol, Country Code Input Auto-Sanitizer, Smart Hybrid 3-Tier Delivery, Cashier Mutex, and Layout Fixes."
 }
