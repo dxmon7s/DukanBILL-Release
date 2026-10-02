@@ -1,9 +1,9 @@
 {
-  "version": "2.0.5",
+  "version": "2.0.6",
   "name": "DukanBILL Desktop",
   "releaseDate": "2026-10-02",
-  "downloadUrl": "https://raw.githubusercontent.com/dxmon7s/DukanBILL-Release/main/DukanBILL.Desktop.Setup.2.0.5.exe",
-  "sha256": "8411dc1539f76a3749baf6f1edaf9734b4c5095add4d1ecf16db698148c1b800",
-  "signature": "nkyHNPapoz3WvO2bIdK5/zqWnDkwnK0tYw8fLI3Zoe+JX1UlHXl0vBmqHAnEQzA3K7xvrndPcX45PmSaxyYWCA==",
-  "releaseNotes": "DukanBILL Desktop v2.0.5 — Critical Hotfix: Instant WhatsApp QR Pairing via Chrome protocol, Country Code Input Auto-Sanitizer, Smart Hybrid 3-Tier Delivery, Cashier Mutex, and Layout Fixes."
+  "downloadUrl": "https://raw.githubusercontent.com/dxmon7s/DukanBILL-Release/main/DukanBILL.Desktop.Setup.2.0.6.exe",
+  "sha256": "5bc851058103b1871332e5672c9f93db848443e561b05f659acaabc1c4d16e10",
+  "signature": "1uIziuuRlNy3ZSeS4r97DmFKJbE3/3SggxA3Jdxm3qmM08v0w5kEjcKpvZVefGFAShLZWlTaQK9ZppEvIIG1Bw==",
+  "releaseNotes": "DukanBILL Desktop v2.0.6 — Official Release: Purchase Stock-In Split Layout Fix, Smart Hybrid 3-Tier WhatsApp Delivery, Emergency PIN Reset Generator, and Procurement 4-Point Forensic Hardening."
 }
