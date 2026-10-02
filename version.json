@@ -1,9 +1,9 @@
 {
-  "version": "2.0.6",
+  "version": "2.0.7",
   "name": "DukanBILL Desktop",
   "releaseDate": "2026-10-02",
-  "downloadUrl": "https://raw.githubusercontent.com/dxmon7s/DukanBILL-Release/main/DukanBILL.Desktop.Setup.2.0.6.exe",
-  "sha256": "5bc851058103b1871332e5672c9f93db848443e561b05f659acaabc1c4d16e10",
-  "signature": "1uIziuuRlNy3ZSeS4r97DmFKJbE3/3SggxA3Jdxm3qmM08v0w5kEjcKpvZVefGFAShLZWlTaQK9ZppEvIIG1Bw==",
-  "releaseNotes": "DukanBILL Desktop v2.0.6 — Official Release: Purchase Stock-In Split Layout Fix, Smart Hybrid 3-Tier WhatsApp Delivery, Emergency PIN Reset Generator, and Procurement 4-Point Forensic Hardening."
+  "downloadUrl": "https://raw.githubusercontent.com/dxmon7s/DukanBILL-Release/main/DukanBILL.Desktop.Setup.2.0.7.exe",
+  "sha256": "9cac83c3eb5682b4f8788eac1a8b62c3921a9d0e224fa8d4e1e2aa07d4a44ec3",
+  "signature": "xvYKFOMH/viT9yRPk5T9MvYWUlzBnFRc0Os/bxIRNf4YiVlKXx9J23cGBGH8G6RoWUP7CKfsLWny38X/y86RCg==",
+  "releaseNotes": "DukanBILL Desktop v2.0.7 — Responsive Window Layout Engine: Dynamic screen scaling, fluid bounds adapting to all monitor/laptop resolutions (768p/1080p/4K), and prominent Store Owner PIN Reset pill."
 }
