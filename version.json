@@ -1,9 +1,9 @@
 {
-  "version": "2.0.7",
+  "version": "2.0.8",
   "name": "DukanBILL Desktop",
-  "releaseDate": "2026-10-02",
-  "downloadUrl": "https://raw.githubusercontent.com/dxmon7s/DukanBILL-Release/main/DukanBILL.Desktop.Setup.2.0.7.exe",
-  "sha256": "9cac83c3eb5682b4f8788eac1a8b62c3921a9d0e224fa8d4e1e2aa07d4a44ec3",
-  "signature": "xvYKFOMH/viT9yRPk5T9MvYWUlzBnFRc0Os/bxIRNf4YiVlKXx9J23cGBGH8G6RoWUP7CKfsLWny38X/y86RCg==",
-  "releaseNotes": "DukanBILL Desktop v2.0.7 — Responsive Window Layout Engine: Dynamic screen scaling, fluid bounds adapting to all monitor/laptop resolutions (768p/1080p/4K), and prominent Store Owner PIN Reset pill."
+  "releaseDate": "2026-10-04",
+  "downloadUrl": "https://raw.githubusercontent.com/dxmon7s/DukanBILL-Release/main/DukanBILL.Desktop.Setup.2.0.8.exe",
+  "sha256": "783c743814a5cd4c9905fd75bbb76cc17123e94d38923c6d0a26fb7718b7597b",
+  "signature": "Q6R7gGJFaGtw0RIxMkRDX43bWHfT9Kw5lk713EvSLKj0ou2OC2k5YvUgEhR7lBMKvKRel+BBDl080mWwn2NsDw==",
+  "releaseNotes": "DukanBILL Desktop v2.0.8 — Security Hardening & Privacy: 24-Hour single-use enforcement on offline emergency reset codes, and PIN-protected Today's Profit card on the dashboard with quick numpad verification & one-click hide."
 }
