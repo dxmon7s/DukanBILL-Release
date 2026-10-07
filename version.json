@@ -1,9 +1,9 @@
 {
-  "version": "2.0.8",
+  "version": "2.0.9",
   "name": "DukanBILL Desktop",
-  "releaseDate": "2026-10-04",
-  "downloadUrl": "https://raw.githubusercontent.com/dxmon7s/DukanBILL-Release/main/DukanBILL.Desktop.Setup.2.0.8.exe",
-  "sha256": "783c743814a5cd4c9905fd75bbb76cc17123e94d38923c6d0a26fb7718b7597b",
-  "signature": "Q6R7gGJFaGtw0RIxMkRDX43bWHfT9Kw5lk713EvSLKj0ou2OC2k5YvUgEhR7lBMKvKRel+BBDl080mWwn2NsDw==",
-  "releaseNotes": "DukanBILL Desktop v2.0.8 — Security Hardening & Privacy: 24-Hour single-use enforcement on offline emergency reset codes, and PIN-protected Today's Profit card on the dashboard with quick numpad verification & one-click hide."
+  "releaseDate": "2026-10-07",
+  "downloadUrl": "https://raw.githubusercontent.com/dxmon7s/DukanBILL-Release/main/DukanBILL.Desktop.Setup.2.0.9.exe",
+  "sha256": "30359f71aa9d4469d5d8d198bd210cf04e03b9834dca4db01245a1e8f388d855",
+  "signature": "jEgzerfQZa973llHJl2L+3nLWt/rDXXiSpimV0jrtdeQn25ZbaYZ7lMbRPbgB4C73ARkkcxHc4fMKjD16/wSAQ==",
+  "releaseNotes": "DukanBILL Desktop v2.0.9 — Fast POS Input & Focus Stability: Comprehensive hardening of Customer Name, Phone, and WhatsApp fields with direct hit-testing, hardware barcode scanner isolation, and zero-drop typing reliability."
 }
