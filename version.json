@@ -1,9 +1,9 @@
 {
-  "version": "2.0.9",
+  "version": "2.1.0",
   "name": "DukanBILL Desktop",
-  "releaseDate": "2026-10-07",
-  "downloadUrl": "https://raw.githubusercontent.com/dxmon7s/DukanBILL-Release/main/DukanBILL.Desktop.Setup.2.0.9.exe",
-  "sha256": "30359f71aa9d4469d5d8d198bd210cf04e03b9834dca4db01245a1e8f388d855",
-  "signature": "jEgzerfQZa973llHJl2L+3nLWt/rDXXiSpimV0jrtdeQn25ZbaYZ7lMbRPbgB4C73ARkkcxHc4fMKjD16/wSAQ==",
-  "releaseNotes": "DukanBILL Desktop v2.0.9 — Fast POS Input & Focus Stability: Comprehensive hardening of Customer Name, Phone, and WhatsApp fields with direct hit-testing, hardware barcode scanner isolation, and zero-drop typing reliability."
+  "releaseDate": "2026-10-10",
+  "downloadUrl": "https://raw.githubusercontent.com/dxmon7s/DukanBILL-Release/main/DukanBILL.Desktop.Setup.2.1.0.exe",
+  "sha256": "de67e87b5cafc3cd47087130bb98f2ccf52f9819db00af8217f4bfc1ed1210e2",
+  "signature": "PW+Ogbgp2xb/38mGO7vlpA+IhlpPADe9jJaeUNiJdU9fQ8sv8sr5Fyq8+xwjbqht/9olyW7QdYX9Vy2q1t1yCg==",
+  "releaseNotes": "DukanBILL Desktop v2.1.0 — Responsive POS Billing & Modern Catalog Redesign: Compact horizontal product cards with clear stock units (PCS/ROLL), wider 42% cart panel with dedicated internal scrolling, full responsive compatibility across all desktop displays down to 960x540 and 125% Windows scaling, and zero horizontal clipping."
 }
