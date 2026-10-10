@@ -1,9 +1,9 @@
 {
-  "version": "2.1.0",
+  "version": "2.1.1",
   "name": "DukanBILL Desktop",
   "releaseDate": "2026-10-10",
-  "downloadUrl": "https://raw.githubusercontent.com/dxmon7s/DukanBILL-Release/main/DukanBILL.Desktop.Setup.2.1.0.exe",
-  "sha256": "de67e87b5cafc3cd47087130bb98f2ccf52f9819db00af8217f4bfc1ed1210e2",
-  "signature": "PW+Ogbgp2xb/38mGO7vlpA+IhlpPADe9jJaeUNiJdU9fQ8sv8sr5Fyq8+xwjbqht/9olyW7QdYX9Vy2q1t1yCg==",
-  "releaseNotes": "DukanBILL Desktop v2.1.0 — Responsive POS Billing & Modern Catalog Redesign: Compact horizontal product cards with clear stock units (PCS/ROLL), wider 42% cart panel with dedicated internal scrolling, full responsive compatibility across all desktop displays down to 960x540 and 125% Windows scaling, and zero horizontal clipping."
+  "downloadUrl": "https://raw.githubusercontent.com/dxmon7s/DukanBILL-Release/main/DukanBILL.Desktop.Setup.2.1.1.exe",
+  "sha256": "2f21029d14151f11c9137cfcb8a1910bab63bf20f84d765caf2bf107bd9a9791",
+  "signature": "8vRLvsHlwk+lX+gf15hkf02HGnNItub6i8y/nvOo8v7RnRQzxaWNgmiFujnb9JLR7wwmLJCPSOJaGlmj0vfrCw==",
+  "releaseNotes": "DukanBILL Desktop v2.1.1 — Udhaar Khata Customer Creation Hardening & Positive Opening Balance Save Fix: Resolved customer ledger check constraint issue during customer onboarding with opening balances, added interactive save loading feedback, and hardened ledger transaction integrity."
 }
