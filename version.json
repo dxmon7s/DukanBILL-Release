@@ -1,9 +1,9 @@
 {
-  "version": "2.1.1",
+  "version": "2.1.4",
   "name": "DukanBILL Desktop",
-  "releaseDate": "2026-10-10",
-  "downloadUrl": "https://raw.githubusercontent.com/dxmon7s/DukanBILL-Release/main/DukanBILL.Desktop.Setup.2.1.1.exe",
-  "sha256": "2f21029d14151f11c9137cfcb8a1910bab63bf20f84d765caf2bf107bd9a9791",
-  "signature": "8vRLvsHlwk+lX+gf15hkf02HGnNItub6i8y/nvOo8v7RnRQzxaWNgmiFujnb9JLR7wwmLJCPSOJaGlmj0vfrCw==",
-  "releaseNotes": "DukanBILL Desktop v2.1.1 — Udhaar Khata Customer Creation Hardening & Positive Opening Balance Save Fix: Resolved customer ledger check constraint issue during customer onboarding with opening balances, added interactive save loading feedback, and hardened ledger transaction integrity."
+  "releaseDate": "2026-10-15",
+  "downloadUrl": "https://raw.githubusercontent.com/dxmon7s/DukanBILL-Release/main/DukanBILL.Desktop.Setup.2.1.4.exe",
+  "sha256": "393f3113c2e01a330b1ad5857dd4a03bbb813015d4202561217029fb454184de",
+  "signature": "0/Gv6oOh/Ek5mRxMpZIoGsEQb2dRQmoH1wxut5qv0dgYg18rKke0jdP7II2pwRkU5EKYisumNQ6KXoGLCLAwCA==",
+  "releaseNotes": "DukanBILL Desktop v2.1.4 — Redesigned Modern 20-Item Dual-Column POS Billing Screen (Compact 2-Column Cart, Instant Customer Directory, High-Density Billing Rows, Full Responsive Viewport from 800x600 to 4K), Zero TypeScript Errors, and Safari/Web Security Hardening."
 }
